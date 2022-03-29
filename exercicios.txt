@@ -1,0 +1,42 @@
+Respostas:
+
+Exercícios sobre lógica
+1. Não são proposições, I, II, III e V.
+2. C
+correção: exercício 2 resposta certa é D.
+
+Exercícios sobre Algoritmos
+1. Fazer café:
+
+Passo 1: pegue uma chaleira
+Passo 2: coloque 3 xícaras de água na chaleira e coloque para ferver
+Passo 3: pegue um suporte para filtro
+Passo 4: pegue um filtro de papel
+Passo 5: coloque o suporte para filtro em uma garrafa
+Passo 6: coloque o filtro de papel dentro do suporte para filtro
+Passo 7: coloque 3 colheres de sopa de pó de café no filtro
+Passo 8: despeije a água fervida sobre o filtro passando pelo pó caindo na garrafa
+Passo 9: sirva o café
+
+2. Fazer compras de remédios:
+
+Passo 1: pegue a lista de remédios que deseja comprar
+Passo 2: pegue o número de telefone da farmácia
+Passo 3: ligue para a farmácia
+Passo 4: fale para o atendente quais rémedios quer comprar
+Passo 5: fale como deseja pagar
+Passo 6: fale o seu endereço
+Passo 7: receba os remédios em sua casa
+Passo 8: pague o entregador
+
+3. Fazer um bolo de chocolate:
+
+Passo 1: Pegue uma tigela
+Passo 2: coloque 1/4 de xícara de farinha de trigo, 1/4 de xícara de açúcar, 2 colheres de cacau em pó, 1 pitada de sal e 1/2 colher de fermento em pó
+Passo 3: com uma colher misture os ingredientes
+Passo 4: adicione na mistura 1 ovo, 3 colheres de sopa de leite, 1/2 colher de sopa de essência de baunilha, 3 colheres de sopa de manteiga ou margarina derretida
+Passo 5: com uma colher misture até ficar homogêneo
+Passo 6: unte 2 canecas com manteiga
+Passo 7: divida o conteúdo da tigela nas duas canecas untadas
+Passo 8: coloque cada caneca no microondas por 1 minuto e meio
+Passo 9: sirva os bolos direto na caneca
